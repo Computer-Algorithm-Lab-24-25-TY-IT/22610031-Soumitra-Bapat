@@ -4,5 +4,5 @@ Computer-Algorithm Lab
 Date : 25/07/2024
 CA-Lab 1
 
-![screenshot]Screenshot from 2024-07-25 10-46-21.png
+<img src="/Screenshot from 2024-07-25 10-46-21.png">
 
